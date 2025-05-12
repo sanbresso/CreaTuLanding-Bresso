@@ -1,12 +1,30 @@
-# React + Vite
+# CreaTuLanding1Bresso
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este repositorio contiene la primera entrega del curso de React JS de Coderhouse.
 
-Currently, two official plugins are available:
+## 📌 Objetivo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Construir una landing page base para un e-commerce utilizando los conceptos fundamentales de React.
 
-## Expanding the ESLint configuration
+## 🧱 Componentes desarrollados
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- NavBar: barra de navegación con nombre de la tienda, enlaces y el widget del carrito.
+- CartWidget: muestra un ícono de carrito con cantidad fija.
+- ItemListContainer: recibe un mensaje por props y lo muestra en pantalla.
+
+## 💡 Conceptos aplicados
+
+- Estructura de componentes en React
+- Props para pasar información entre componentes
+- Organización del proyecto por carpetas
+- Uso de estilos CSS externos (sin Bootstrap)
+
+## 🛠 Tecnologías utilizadas
+
+- React
+- Vite
+- CSS puro
+
+---
+
+> Proyecto realizado por Sofía Bresso como parte del curso de React JS - Coderhouse.
